@@ -9,7 +9,6 @@
 
 
 <br>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJkZGE0YzRhNDBlM2VmY2Y1MDllMDMwY2Q5NzQ4ZjUwMDg0NjRiZCZjdD1n/dbtDDSvWErdf2/giphy.gif" align=right height="165" width="260"> <br>
 
 
 - 🌱 I’m currently learning **KMM, Flutter**
