@@ -24,7 +24,7 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lezgintekay&show_icons=true&locale=en&layout=compact" alt="lezgintekay" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lezgintekay&show_icons=true&locale=en&layout=compact" alt="lezgintekay" /></p>
 
 <br>
 
@@ -36,5 +36,5 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lezgintekay" alt="lezgintekay" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lezgintekay" alt="lezgintekay" /></a> </p>
 
