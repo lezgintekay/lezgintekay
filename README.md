@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkpicture.com/view.php?img=LPic649c648d86fdc827306495)]
+[![MasterHead](https://i.hizliresim.com/9vw1pel.png)]
 
 
 <h1 align="center">Hi, I'm Lezgin</h1>
