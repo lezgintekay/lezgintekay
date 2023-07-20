@@ -25,11 +25,9 @@
 <br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lezgintekay&show_icons=true&locale=en&layout=compact" alt="lezgintekay" /></p>
+![Lezgin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lezgintekay&show_icons=true&theme=holi)
+[![Lezgin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lezgintekay&layout=donut&theme=holi)](https://github.com/steffano-da-cruz/github-readme-stats)
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lezgintekay&show_icons=true&locale=en" alt="lezgintekay" /></p>
 
 
 <br>
@@ -44,6 +42,4 @@
 
 
 
-![Lezgin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lezgintekay&show_icons=true&theme=holi)
-[![Lezgin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lezgintekay&layout=donut&theme=holi)](https://github.com/steffano-da-cruz/github-readme-stats)
 
