@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lezgintekay&show_icons=true&locale=en&layout=compact" alt="lezgintekay" /></p>
 
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lezgintekay&show_icons=true&locale=en" alt="lezgintekay" /></p>
 
