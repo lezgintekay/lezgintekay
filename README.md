@@ -13,15 +13,6 @@
 
 
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lezgintekay&" alt="lezgintekay" /></p>
-
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lezgintekay" alt="lezgintekay" /></a> </p>
-
-
 
 
 
