@@ -3,11 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **KMM and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lezgintekay?tab=repositories](https://github.com/lezgintekay?tab=repositories)
-
-- 💬 Ask me about **Kotlin, Java and C#**
 
 - 📫 How to reach me **tekay.lezgin@yandex.com**
 <hr>
