@@ -34,13 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lezgintekay&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lezgintekay/lezgintekay/output/github-contribution-grid-snake-dark.svg">
