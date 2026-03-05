@@ -1,11 +1,7 @@
 # Hi there, I'm Lezgin Tekay (boltstrike) 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXp4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/unQ3IJU2RG7dVLi921/giphy.gif" width="400" alt="Funny Coding Cat">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lezgintekay&label=PROFILE%20VIEWS&color=0078d4&style=flat-square" alt="Visitor Counter" />
+  <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/bongo-cat.gif" width="400" alt="Bongo Cat Coding">
 </p>
 
 ---
