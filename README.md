@@ -1,7 +1,7 @@
 # Hi there, I'm Lezgin Tekay (boltstrike) 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/bongo-cat.gif" width="400" alt="Bongo Cat Coding">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVnb2xobjh1bzMwd3F2ZHNjbWg1NHAwNXhzM2Qzczg1ZGVrc3cyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="450" alt="Coding GIF">
 </p>
 
 ---
@@ -36,9 +36,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lezgintekay&show_icons=true&theme=dark&hide_border=true" alt="Lezgin's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lezgintekay&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lezgintekay&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
