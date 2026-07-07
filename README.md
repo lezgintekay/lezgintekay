@@ -47,4 +47,4 @@
 ### 📫 Connect with me
 - 📧 Email: [lezgintekay@protonmail.com](mailto:lezgintekay@protonmail.com)
 - 📍 Location: Mersin, Turkey
-- 🌐 Languages: Kurdish (Native), Turkish, English, German
+- 🌐 Languages: Turkish, English, German
