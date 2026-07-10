@@ -24,6 +24,12 @@ Software Developer focused on system architecture and full-stack engineering. Cu
 
 ---
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph">
+</div>
+
+---
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lezgintekay&theme=default" alt="GitHub Streak" />
 
