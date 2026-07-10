@@ -1,4 +1,4 @@
-# Hello 👋, I'm Lezgin Tekay
+# Hello 👋 I'm Lezgin Tekay
 ### Full Stack Developer
 
 Software Developer focused on system architecture and full-stack engineering. Currently a third-year Management Information Systems student at Tarsus University. Proficient in building scalable, layered solutions using .NET Core, Vue.js, PostgreSQL, and Docker. Core experience includes developing SaaS architectures, system monitoring tools, and integrating cybersecurity principles into the software lifecycle.
@@ -27,11 +27,6 @@ Software Developer focused on system architecture and full-stack engineering. Cu
 <div align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph">
 </div>
-
----
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lezgintekay&theme=default" alt="GitHub Streak" />
 
 ---
 
