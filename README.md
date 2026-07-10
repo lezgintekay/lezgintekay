@@ -1,50 +1,15 @@
-# Hi there, I'm Lezgin Tekay (boltstrike) 👋
+# ⚡ SYS_MONITOR // USER_STATUS: ONLINE
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVnb2xobjh1bzMwd3F2ZHNjbWg1NHAwNXhzM2Qzczg1ZGVrc3cyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="450" alt="Coding GIF">
-</p>
+> Real-time telemetry, architecture focus, and development metrics.
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/main/github-metrics.svg" alt="System Dashboard">
+</div>
 
-### 🚀 Technical Expertise
-
-**Languages & Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**Environment & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-
-### 🛠️ Featured Projects
-* 🛰️ **[SysGuard.Monitor](https://github.com/lezgintekay/SysGuard.Monitor)** - A high-performance system monitoring tool for tracking CPU and memory metrics.
-* 🎓 **[Atifmatik](https://github.com/lezgintekay/Atifmatik)** - A Chrome extension designed to streamline academic citations.
-* 🏫 **[EduReserve](https://github.com/lezgintekay/EduReserve)** - A centralized university reservation system built with .NET and PostgreSQL.
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lezgintekay/lezgintekay/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lezgintekay/lezgintekay/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lezgintekay/lezgintekay/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-### 📫 Connect with me
-- 📧 Email: [lezgintekay@protonmail.com](mailto:lezgintekay@protonmail.com)
-- 📍 Location: Mersin, Turkey
-- 🌐 Languages: Turkish, English, German
+### 📡 [ACTIVE_NODES & INFRASTRUCTURE]
+```text
+[Backend_Core]     :: .NET Core API, Entity Framework, Python
+[Frontend_Nodes]   :: Vue 3, Nuxt.js
+[Data_Layer]       :: PostgreSQL
+[Environment]      :: Linux, Docker, WSL
+[Architecture]     :: Layered Architecture, REST
