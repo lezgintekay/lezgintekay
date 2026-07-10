@@ -22,10 +22,12 @@ Software Developer focused on system architecture and full-stack engineering. Cu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
 </p>
 
+---
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lezgintekay&theme=default" alt="GitHub Streak" />
 
+---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lezgintekay&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
