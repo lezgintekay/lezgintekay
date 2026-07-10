@@ -3,7 +3,6 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 
-# EKLENEN İZİN BLOĞU: Action'ın repo'ya dosya yükleyebilmesi için
 permissions:
   contents: write
 
@@ -12,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi38911/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@0.8.1
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
