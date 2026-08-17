@@ -5,7 +5,7 @@ Software Developer focused on system architecture and full-stack engineering. Cu
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/lezgintekay/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
-<a href="https://medium.com/@lezgintekay" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+<p><a href="https://medium.com/@lezgintekay" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a></p>
 
 ## Skills
 
