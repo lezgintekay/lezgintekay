@@ -4,8 +4,9 @@
 Software Developer focused on system architecture and full-stack engineering. Currently a third-year Management Information Systems student at Tarsus University. Proficient in building scalable, layered solutions using .NET Core, Vue.js, PostgreSQL, and Docker. Core experience includes developing SaaS architectures, system monitoring tools, and integrating cybersecurity principles into the software lifecycle.
 
 ## Contact Me
-<p><a href="https://www.linkedin.com/in/lezgintekay/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
-<p><a href="https://medium.com/@lezgintekay" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a></p>
+<p><a href="https://www.linkedin.com/in/lezgintekay/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://medium.com/@lezgintekay" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
 
 ## Skills
 
