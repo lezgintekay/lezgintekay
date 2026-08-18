@@ -27,7 +27,7 @@ Software Developer focused on system architecture and full-stack engineering. Cu
 ---
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph">
+ <img src="./profile-3d-contrib/profile-github-dark.svg" alt="3D Contribution Graph">
 </div>
 
 ---
