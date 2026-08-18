@@ -28,8 +28,5 @@ Software Developer focused on system architecture and full-stack engineering. Cu
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=lezgintekay&color=8a2be2&style=flat-square&label=Profile+Views" alt="Profile Views">
 
 </div>
